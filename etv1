@@ -9,6 +9,10 @@ url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs
 #EXTINF:-1 tvg-id="_0x375102[_0x3eb54b(0x2873" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Galaxy_tv_2020.png/revision/latest/scale-to-width-down/1200?cb=20241026110710&path-prefix=id",Sportstar (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
